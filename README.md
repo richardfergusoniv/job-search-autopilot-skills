@@ -26,6 +26,8 @@ Muse should:
 | `interview-prep` | Prep plans, a story bank, scored practice sessions, debriefs, and a company red-flag check. |
 | `rejection-review` | Turns each rejection into a diagnosis and a reframing playbook entry, so the next application in that role family is stronger. |
 | `offer-stage` | Offer arithmetic, a clause-by-clause contract walk that produces questions for a lawyer, and negotiation talking points. Never advises signing or declining; never legal advice. |
+| `write-like-a-person` | The standing voice pass for everything written on the user's behalf (application answers, recruiter emails, letters, thank-you notes): removes AI writing patterns without changing what the text says. |
+| `resume-review` | A standalone audit of the master resume: recruiter first-scan test, the style checklist item by item, defects separated from taste calls, before-and-after rewrites, and a JD-match mode. |
 
 ## Ground rules baked into every skill
 
