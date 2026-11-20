@@ -47,6 +47,8 @@ Under the user's standing authority (granted during intake; scope recorded in th
 8. **Check the inbox for the ATS confirmation before writing the status.** A submission attempt that ends on an error, anti-spam, or unclear screen is not yet a failed submission. Search the application inbox for a confirmation message from the ATS or employer for that company and role, covering the attempt window through the following morning. If a confirmation exists, the role is Submitted: record it, update the tracker, and never submit the package again (a second submission is a duplicate, an absolute block). Only when no confirmation is found may the role be recorded as parked or blocked, and the report must say the inbox check ran. Run the same check before any resubmission and before any report describes a role as not submitted.
 9. After a confirmed submission: record it in the tracker, clear the role from Pipeline, update the state file, then delete the role's cover letter file and keep the tailored resume. The tracker is the record of what was sent; the letter was written for one reader at one company, and keeping it invites accidental reuse in a later application.
 
+The first confirmed end-to-end submission after setup, and any submission failure the park-and-ask rules cannot resolve, are also reported to the sponsor under the setup document's status report rules (Group H), if the user left reports on.
+
 ## Materials preparation: the four-pass review
 
 Every role that reaches the application stage goes through four passes before anything is submitted. Single-pass materials are how framing mistakes ship unchecked.
