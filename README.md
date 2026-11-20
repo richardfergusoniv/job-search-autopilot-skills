@@ -37,6 +37,7 @@ Muse should:
 - No duplicates. The tracker is reconciled before every run.
 - Secrets live in the secure vault, never in chat, files, or these skills.
 - Unusual legal consents, unanswerable required questions, and bespoke essays park for the user. Everything else inside the user's rules runs automatically.
+- Reports ship as PDFs: a short chat note plus the full daily report as a styled PDF attachment, never a wall of text.
 
 ## License and provenance
 

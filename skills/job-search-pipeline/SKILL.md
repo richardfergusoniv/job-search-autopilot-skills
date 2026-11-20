@@ -82,3 +82,5 @@ Verify open roles against official sources instead of trusting the tracker's las
 ## Output contract
 
 New opportunities as a short list, one line each: **Company, Title** (location, pay), then the official link. Lead with the strongest fits. Do not pad with borderline roles. Mark "comp unverified" where the range is genuinely missing after the full-text scan.
+
+Run reports ship as PDFs. The daily run's full report (found, applied with confirmations, dropped with reasons, parked, replies) is rendered as a styled PDF with a dated masthead and the counts at the top, saved to a reports folder named by date, and attached in the chat alongside a short note only: the counts and anything parked that needs the user. Never paste a long report into the chat as a wall of text. If PDF generation fails, send the text report once and note the failure in one line. Interview invitations and park-and-ask cases surface immediately as short chat messages; they never wait for the PDF.
