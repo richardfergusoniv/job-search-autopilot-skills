@@ -39,4 +39,4 @@ Muse should:
 
 ## License and provenance
 
-These skills distill a working personal job search system into a reusable template. Adapt them freely. Settings marked as coming "from the user's profile" are set during intake by the companion setup document.
+These skills distill a working personal job search system into a reusable template. Adapt them freely. Released under the MIT License (see the LICENSE file). Settings marked as coming "from the user's profile" are set during intake by the companion setup document.

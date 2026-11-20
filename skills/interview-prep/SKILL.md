@@ -40,7 +40,7 @@ Trigger: the interview happened; same day when possible, memory decays fast.
 3. Feed the bank: new stories drafted into STAR+R from what the user actually said, refined stories edited, stories that landed badly noted with what to change. The user's confirmation is required before new facts or figures enter the bank.
 4. Re-run the red-flag check with the new information. Process behavior in the room is evidence; update the verdict if it moved.
 5. Remind the user about the thank-you note the same day: short, addressed to each interviewer where contact details exist, one specific reference to something discussed. Surface it; the user sends it. Never send it for them.
-6. Note any follow-up the interviewer promised (timeline, next round, materials) so the inbox watch can catch a stall.
+6. Note any follow-up the interviewer promised (timeline, next round, materials) so the inbox watch can catch a stall. When a promised date passes with nothing from the employer, surface the stall to the user with a short draft nudge: polite, one or two lines, referencing the promised timeline and nothing else. No new claims, no pressure, no mention of other processes unless one is real. The user approves the text before anything sends. One nudge per stall; after that, the process goes back to waiting and only a genuinely new development reopens it.
 
 ### 4. Company red-flag check
 
