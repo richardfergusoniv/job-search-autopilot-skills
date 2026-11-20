@@ -12,7 +12,7 @@ Muse should:
 
 1. Copy each folder under `skills/` into the user's custom skills directory, intact, including any `references/` files.
 2. Security-scan each `SKILL.md` before installing (for example with NVIDIA SkillSpector or an equivalent skill scanner) and show the user the scores. Do not install a skill that scores at the scanner's highest risk tier without the user's explicit go-ahead.
-3. Then follow the companion setup document (the Job Search Autopilot setup document) for intake: it collects the user's resume, targets, pay floor, locations, autonomy settings, and standing answers, and confirms a summary before any application is submitted.
+3. Then follow the companion setup document, maintained in this repository as `SETUP.md`, for intake: it collects the user's resume, targets, pay floor, locations, autonomy settings, and standing answers, and confirms a summary before any application is submitted.
 4. This pack is maintained in this repository. An installed system records the version it installed from, checks this repository weekly, and pulls security-scanned updates automatically, so fixes pushed here reach it without a reinstall. Updates change procedure only, never the user's settings.
 
 ## What is in the pack
@@ -39,6 +39,7 @@ Muse should:
 - Secrets live in the secure vault, never in chat, files, or these skills.
 - Unusual legal consents, unanswerable required questions, and bespoke essays park for the user. Everything else inside the user's rules runs automatically.
 - Reports ship as PDFs: a short chat note plus the full daily report as a styled PDF attachment, never a wall of text.
+- The sponsor never reaches in. This repository is a one-way channel for workflow fixes. It cannot see or change any user's profile, targets, pay floor, or settings; those belong to the user alone, and their Muse changes them only on the user's own instruction.
 
 ## License and provenance
 

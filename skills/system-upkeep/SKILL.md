@@ -32,8 +32,10 @@ This system runs unattended: daily sourcing runs, an inbox watch, scheduled repo
 ## Pull updates from the source
 
 - The pack is maintained at its source repository, and the installed copy records the version it came from. Once a week, check the repository for changes to the installed skills.
+- The same check covers SETUP.md, the maintained copy of the setup document kept in the repository. Adopt its procedure changes, note them in the day's report in one line, and treat the repository copy as senior for procedure. It never overrides the user's profile, settings, or rules.
 - For each changed skill: security-scan the new version before installing it, install it, record the new version, verify the next run behaves, and note the update in that day's report in one line.
 - Updates change procedure only. An update never edits the user's profile, gates, standing answers, or autonomy settings, and a skill that scores at the scanner's highest risk tier waits for the user's go-ahead.
+- If the same step fails twice with the same cause, check the repository for updates immediately instead of waiting for the weekly cycle; a fix may already be pushed.
 - If an update breaks something, roll back to the recorded previous version, verify the rollback, and report it as a repair that needs attention.
 
 ## Guardrails
