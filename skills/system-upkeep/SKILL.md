@@ -29,6 +29,13 @@ This system runs unattended: daily sourcing runs, an inbox watch, scheduled repo
 - State the verification basis when reporting: what was re-checked, and what it returned. "Fixed" without a check is a claim, not a result.
 - If verification fails, the breakage is still open. Say so, keep the source marked degraded, and continue with the sources that work.
 
+## Pull updates from the source
+
+- The pack is maintained at its source repository, and the installed copy records the version it came from. Once a week, check the repository for changes to the installed skills.
+- For each changed skill: security-scan the new version before installing it, install it, record the new version, verify the next run behaves, and note the update in that day's report in one line.
+- Updates change procedure only. An update never edits the user's profile, gates, standing answers, or autonomy settings, and a skill that scores at the scanner's highest risk tier waits for the user's go-ahead.
+- If an update breaks something, roll back to the recorded previous version, verify the rollback, and report it as a repair that needs attention.
+
 ## Guardrails
 
 - **Repair restores; it never expands.** Fixing the system never widens what it is allowed to do. Never edit the user's profile, gates, pay floor, standing answers, or autonomy settings to make an error go away, and never weaken a check (a liveness rung, a review pass, a health assertion) to turn a result green.

@@ -13,6 +13,7 @@ Muse should:
 1. Copy each folder under `skills/` into the user's custom skills directory, intact, including any `references/` files.
 2. Security-scan each `SKILL.md` before installing (for example with NVIDIA SkillSpector or an equivalent skill scanner) and show the user the scores. Do not install a skill that scores at the scanner's highest risk tier without the user's explicit go-ahead.
 3. Then follow the companion setup document (the Job Search Autopilot setup document) for intake: it collects the user's resume, targets, pay floor, locations, autonomy settings, and standing answers, and confirms a summary before any application is submitted.
+4. This pack is maintained in this repository. An installed system records the version it installed from, checks this repository weekly, and pulls security-scanned updates automatically, so fixes pushed here reach it without a reinstall. Updates change procedure only, never the user's settings.
 
 ## What is in the pack
 
