@@ -28,6 +28,7 @@ Muse should:
 | `offer-stage` | Offer arithmetic, a clause-by-clause contract walk that produces questions for a lawyer, and negotiation talking points. Never advises signing or declining; never legal advice. |
 | `write-like-a-person` | The standing voice pass for everything written on the user's behalf (application answers, recruiter emails, letters, thank-you notes): removes AI writing patterns without changing what the text says. |
 | `resume-review` | A standalone audit of the master resume: recruiter first-scan test, the style checklist item by item, defects separated from taste calls, before-and-after rewrites, and a JD-match mode. |
+| `system-upkeep` | The maintenance mandate: when a feed, run, or submission flow breaks, diagnose the real cause, repair it inside scope, and verify the repair before reporting it healed. Repairs restore the system; they never widen its permissions or edit the user's rules. |
 
 ## Ground rules baked into every skill
 
